@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9763918-5f6c-4f62-a232-1050c0d2baec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/main/java/io/testomat/ReportingExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ReportingExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/main/java/io/testomat/TestomatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/TestomatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/main/java/io/testomat/WatcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/WatcherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/main/java/io/testomat/annotations/TestId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/annotations/TestId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/main/java/io/testomat/annotations/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/annotations/Title.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="38Fvy6d00JKkeQRmHvLlaONAwCk" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.DemoTest.executor": "Run",
+    "JUnit.DemoTest.passingTest.executor": "Run",
+    "JUnit.SampleTest.executor": "Run",
+    "JUnit.WatcherTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "fix/testomat-extension",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/artem/development/work/test-tasks/testomat-extension/src/main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/io/testomat" />
+      <recent name="$PROJECT_DIR$/src/main/java/io/model" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoTest.passingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="5371797699ac32d9e2d838507015724a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.testomat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.testomat" />
+      <option name="MAIN_CLASS_NAME" value="io.testomat.DemoTest" />
+      <option name="METHOD_NAME" value="passingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="5371797699ac32d9e2d838507015724a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.testomat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.testomat" />
+      <option name="MAIN_CLASS_NAME" value="io.testomat.SampleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemoTest.passingTest" />
+        <item itemvalue="JUnit.SampleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9763918-5f6c-4f62-a232-1050c0d2baec" name="Changes" comment="" />
+      <created>1768408384508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768408384508</updated>
+      <workItem from="1768408385614" duration="437000" />
+      <workItem from="1768408877571" duration="952000" />
+      <workItem from="1768409887840" duration="1934000" />
+      <workItem from="1768464898806" duration="1487000" />
+      <workItem from="1768652658014" duration="7131000" />
+      <workItem from="1768661982734" duration="2903000" />
+      <workItem from="1768828617166" duration="11000" />
+      <workItem from="1768840314020" duration="6869000" />
+      <workItem from="1768850554810" duration="418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
